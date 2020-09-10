@@ -1,6 +1,10 @@
-### I'm Nayak 🐒
-Let's run like hell.  
-🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 
+<p align='center'>
+  <b>I'm Nayak 🐒</b>
+  <br><br>
+  <span>Let's run like hell.</span>
+  <br>
+  <span>🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 </span>
+</p>
 
 <!--
 **LeeJeongYeop/LeeJeongYeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
