@@ -1,7 +1,7 @@
 <p align='center'>
-  <b>I'm Nayak 🐒</b>
+  <b>🐒 I'm Nayak 🐒</b>
   <br><br>
-  <span>Let's run like hell.</span>
+  <span>Let's run like hell...</span>
   <br>
   <span>🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 🚀 </span>
 </p>
